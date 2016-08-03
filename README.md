@@ -1,2 +1,0 @@
-# smartad
-SmartAD website
